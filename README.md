@@ -1,0 +1,1 @@
+A Reinforcement learning method to train an agent to find the most optimal path to a finish line with simple constraints to a specific area on a racetrack. Developed in Python using Off Policy Every-Visit Monte Carlo Control with a deterministic target policy.
